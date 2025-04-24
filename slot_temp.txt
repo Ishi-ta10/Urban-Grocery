@@ -1,0 +1,4 @@
+
+morning 50
+afternoon 47
+evening 18
